@@ -3492,11 +3492,11 @@ input, select, textarea {
 				margin-bottom: -2.5em;
 			}
 
-				#banner . {
+				#banner .logo {
 					margin: 0 0 1em 0;
 				}
 
-					#banner . .icon {
+					#banner .logo .icon {
 						font-size: 1.5em;
 					}
 
